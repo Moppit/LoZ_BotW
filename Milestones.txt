@@ -1,0 +1,23 @@
+Hylia River,R,40
+Lurelin Village,T,98
+Hateno Village,T,224
+Floria River,R,300
+Zora’s Domain,T,467
+Vah Ruta,B,500
+Kakariko Village,T,589
+Tarrey Town,T,710
+Goronbi River,R,864
+Goron City,T,950
+Vah Rudania,B,1000
+Korok Forest,T,1042
+Hebra Plunge,R,1197
+Tabantha Flight Range,T,1239
+Lake Totori,R,1354
+Rito Village,T,1445
+Vah Medoh,B,1500
+Tamio River,R,1556
+Northern Icehouse,T,1601
+Kara Kara Bazaar,T,1750
+Gerudo Town,T,1888
+Vah Naboris,B,2000
+Hyrule Castle,B,2040

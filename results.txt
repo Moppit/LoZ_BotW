@@ -1,0 +1,16 @@
+Username: Putting it all together
+Health left: 17
+Total distance traveled: 1354
+--------------------------------------------
+Username: Moppit
+Health left: 0
+Total distance traveled: 0
+--------------------------------------------
+Username: 
+Health left: 19
+Total distance traveled: 2040
+--------------------------------------------
+Username: Elly
+Health left: 17
+Total distance traveled: 2040
+--------------------------------------------
