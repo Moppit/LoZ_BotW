@@ -1,5 +1,4 @@
 # LoZ_BotW
-Text based version of Legend of Zelda: Breath of the Wild mixed with Oregon Trail
 
 ## DISCLAIMER: The premise of Legend of Zelda does not belong to me!
 It is the property of Nintendo. This game is merely a parody, and it includes many elements that are typical of the game *Oregon Trail*. And, unlike the original game, this game is purely text-based.
