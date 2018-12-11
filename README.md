@@ -14,9 +14,7 @@ text-based version of such a masterpiece, here's how to get started.
 If you have a C++ compiler on your computer, simply execute the a.out file in terminal.
 If you do not have a C++ compiler, run the program using Repl.it, a free online IDE.
 
-**The project is set up here and is ready for use**: https://repl.it/repls/IcyJoyousTypes
-
-If that setup ever gets deleted, clone the master branch and upload the files in the unzipped folder to the Repl.it IDE.
+Clone the master branch and upload the files in the unzipped folder to the Repl.it IDE.
 Copy and paste the following script into the default main.cpp file, and click run.
 
 ```c++
